@@ -1,0 +1,13 @@
+C:\Users\Hafiz\source\vs2022\WindowsForms_Task7\WindowsForms_Task7\bin\Debug\WindowsForms_Task7.exe.config
+C:\Users\Hafiz\source\vs2022\WindowsForms_Task7\WindowsForms_Task7\bin\Debug\WindowsForms_Task7.exe
+C:\Users\Hafiz\source\vs2022\WindowsForms_Task7\WindowsForms_Task7\bin\Debug\WindowsForms_Task7.pdb
+C:\Users\Hafiz\source\vs2022\WindowsForms_Task7\WindowsForms_Task7\obj\Debug\WindowsForms_Task7.csproj.AssemblyReference.cache
+C:\Users\Hafiz\source\vs2022\WindowsForms_Task7\WindowsForms_Task7\obj\Debug\WindowsForms_Task7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hafiz\source\vs2022\WindowsForms_Task7\WindowsForms_Task7\obj\Debug\WindowsForms_Task7.Properties.Resources.resources
+C:\Users\Hafiz\source\vs2022\WindowsForms_Task7\WindowsForms_Task7\obj\Debug\WindowsForms_Task7.csproj.GenerateResource.cache
+C:\Users\Hafiz\source\vs2022\WindowsForms_Task7\WindowsForms_Task7\obj\Debug\WindowsForms_Task7.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\source\vs2022\WindowsForms_Task7\WindowsForms_Task7\obj\Debug\WindowsForms_Task7.exe
+C:\Users\Hafiz\source\vs2022\WindowsForms_Task7\WindowsForms_Task7\obj\Debug\WindowsForms_Task7.pdb
+C:\Users\Hafiz\source\vs2022\WindowsForms_Task7\WindowsForms_Task7\bin\Debug\Guna.UI2.dll
+C:\Users\Hafiz\source\vs2022\WindowsForms_Task7\WindowsForms_Task7\obj\Debug\WindowsForms_Task7.csproj.CopyComplete
+C:\Users\Hafiz\source\vs2022\WindowsForms_Task7\WindowsForms_Task7\obj\Debug\WindowsForms_Task7.MainView.resources
